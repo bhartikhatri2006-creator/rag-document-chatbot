@@ -1,3 +1,4 @@
+
 ## Architecture
 
 ![RAG Architecture](architecture.png)
@@ -81,3 +82,6 @@ Answer: 28 February
 - Build web chatbot interface
 - Persist FAISS index
 - Add support for multiple documents
+=======
+# rag-document-chatbot
+>>>>>>> 9bee33c5e36ae3c02afb4b7e774945df20f054b2
