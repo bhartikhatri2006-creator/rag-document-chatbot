@@ -1,3 +1,13 @@
+# RAG Document Chatbot
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FAISS](https://img.shields.io/badge/VectorDB-FAISS-green)
+![LLM](https://img.shields.io/badge/LLM-FLAN--T5-orange)
+![Embeddings](https://img.shields.io/badge/Embeddings-SentenceTransformers-red)
+
+A Retrieval-Augmented Generation (RAG) system that retrieves relevant
+document chunks using vector similarity search and generates answers
+using a language model.
 
 ## Architecture
 
